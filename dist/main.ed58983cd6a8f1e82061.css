@@ -1,0 +1,56 @@
+/*!*************************************************************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/saas.scss ***!
+  \*************************************************************************************************************/
+.box {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid #ccc;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  text-align: center;
+  color: darkblue;
+}
+/*!*************************************************************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/test.scss ***!
+  \*************************************************************************************************************/
+@charset "UTF-8";
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 70%;
+  background: rgb(204, 204, 24);
+  padding: 20px;
+  margin: auto;
+}
+
+h1 {
+  text-align: left;
+  font-size: 20px; /* срабатывают подгруженные шрифты */
+  color: aliceblue;
+}
+
+.logo {
+  background-image: url(a02f41e864e9e7afa717.png);
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+  margin: 0;
+}
+
+pre {
+  width: auto;
+  height: auto;
+  font-size: 9px;
+}
+
+.code {
+  color: green;
+  font-weight: 900;
+}
+
+/*# sourceMappingURL=main.ed58983cd6a8f1e82061.css.map*/

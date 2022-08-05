@@ -1,0 +1,35 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	}
+	
+	.container {	
+		width: 70%;
+		background: rgb(204, 204, 24);	
+		padding: 20px;
+		margin: auto;
+	}
+	
+	h1 {
+		text-align: left;
+		font-size: 20px; /* срабатывают подгруженные шрифты */
+		color: aliceblue;
+	}
+	
+	.logo {
+		background-image: url("../assets/webpack-logo.png");
+		background-size: cover;
+		height: 100px;
+		width: 100px;
+		margin: 0;
+	}
+	
+	pre {
+		width: auto;
+		height: auto;
+		font-size: 9px; 
+	}
+	
+	.code {
+		color: green;
+		font-weight: 900;
+	}
